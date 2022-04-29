@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Story
+comment0.text=\r\n\ Story\ uses\ the\ user's\ input\ to\ create\ a\ character\ and\ ask\ for\ information\r\n\ to\ customize\ that\ character.\ The\ personal\ attributes\ of\ the\ character\r\n\ and\ the\ choices\ made\ within\ the\ story\ will\ affect\ the\ events\ and\ ending.\r\n\r\n\ @author\ Mustafa\ Osmani\r\n\ @version\ 04/29/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ enter()
+comment2.text=\r\n\ This\ method\ allows\ the\ user\ to\ press\ ENTER\ when\ he\ wants\ to\ continue\r\n\ the\ text.\r\n\r\n
+numComments=3
